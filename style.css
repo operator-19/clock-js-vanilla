@@ -1,5 +1,5 @@
 html {
-    background: #000 url("/background.jpg");
+    background: url("./background.jpg");
     font-family: "helvitica neue";
     text-align: center;
     font-size: 10px;
